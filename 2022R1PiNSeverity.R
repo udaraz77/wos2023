@@ -1,6 +1,6 @@
 # The file to load and calculate the PiN Severity for HH data set
 # Date source HNAP WASH HH assessment 2022 Round 1 [January - February]
-# Author: Umar Daraz; udaraz@unicef.org, umar.daraz@gmail.com
+# Author: Umar Daraz; udaraz@unicef.org, umar.daraz@gmail.com - RZAKIadother edit
 # 
 
 # Loading relevant Libraries ----
